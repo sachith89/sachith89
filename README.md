@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sachith, a passionate software engineer from Sri Lanka</div>  
   
 
-- 🔭 I’m currently working on Fintech/ Banking domain  
+- 🔭 I’m currently working on Airline domain  
   
 
 - 🌱 I’m currently learning Kubernetes  
