@@ -2,9 +2,9 @@
 <img src="https://github.com/sachith89/sachith89/blob/main/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Sachith, a passionate software engineer from Sri Lanka</div>  
-  
+### <div align="center"> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sachithlakmal" target="_blank">Follow on LinkedIn</a></div>  
+
 
 - 🔭 I’m currently working on Airline domain  
   
