@@ -11,9 +11,6 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachith89&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=2dd4bf&icon_color=38bdf8" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith89&layout=compact&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=2dd4bf" height="165" alt="Top languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=sachith89&hide_border=true&background=00000000&ring=2dd4bf&fire=38bdf8&currStreakLabel=2dd4bf&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Contribution streak" />
 </div>
 
