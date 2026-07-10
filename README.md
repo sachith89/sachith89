@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Sachith Lakmal — lead engineer from Sri Lanka · Java · Kotlin · Vue · Nuxt · Node" width="100%">
+  <img src="assets/header-light.svg" alt="Sachith Lakmal — Lead engineer from Sri Lanka · Java · Kotlin · Vue · Nuxt · Node" width="100%">
 </picture>
 
 ## ⚡ Recent activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
 

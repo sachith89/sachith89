@@ -10,7 +10,7 @@
   <circle cx="58" cy="34" r="7" fill="#ffbd2e"/>
   <circle cx="82" cy="34" r="7" fill="#27c93f"/>
   <text x="48" y="102" font-size="24" font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" fill="#8b949e">sachith@sri-lanka:~$ whoami</text>
-  <text x="48" y="156" font-size="46" font-weight="700" fill="url(#accent)">Sachith Lakmal<tspan fill="#e6edf3" font-weight="400"> · lead engineer</tspan></text>
+  <text x="48" y="156" font-size="46" font-weight="700" fill="url(#accent)">Sachith Lakmal<tspan fill="#e6edf3" font-weight="400"> · Lead engineer</tspan></text>
   <text x="48" y="202" font-size="22" font-family="SFMono-Regular, Consolas, 'Liberation Mono', monospace" fill="#8b949e">java · kotlin · vue · nuxt · node</text>
   <rect x="502" y="184" width="12" height="22" fill="url(#accent)">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
