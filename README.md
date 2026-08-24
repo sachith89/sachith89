@@ -6,6 +6,7 @@
 ## ⚡ Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [Mohammed-Moniem/wayfinder](https://github.com/Mohammed-Moniem/wayfinder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📊 Stats
